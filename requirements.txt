@@ -1,0 +1,33 @@
+
+# Web / API
+fastapi
+uvicorn
+python-multipart  # Required for file upload handling
+
+# Core typing / models
+pydantic
+typing-extensions
+
+# Environment
+python-dotenv
+
+# LangChain ecosystem and related packages
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+
+# Vector stores / embeddings / ML frameworks
+chromadb
+huggingface-hub
+transformers
+torch
+sentence-transformers
+
+# Utilities and document loaders
+beautifulsoup4
+requests
+pypdf
+python-docx
+docx2txt
