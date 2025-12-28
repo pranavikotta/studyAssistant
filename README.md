@@ -50,5 +50,5 @@ Study Assistant uses a sophisticated AI agent powered by LangGraph and Google's 
 - **Vector Store**: Chroma DB for RAG functionality
 
 ## To Run
-enter the frontend directory: npm start
-for the backend, activate a virtual env: python api.py
+- enter the frontend directory: npm start
+- for the backend, activate a virtual env: python api.py
